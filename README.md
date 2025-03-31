@@ -1,6 +1,7 @@
 Author: Jay MacFarlane
 
 All music in this game is the original creation of Jay MacFarlane under the pseudonym Maverick Panda.
+This project was based on the Game Maker's Toolkit Unity Tutorial for Complete Beginners (https://www.youtube.com/watch?v=XtQMytORBmM&t=146s&pp=ygUQdW5pdHkgZXNzZW50aWFscw%3D%3D).
 
 To play the game:
 - Download and exract Gravity Ball.zip
@@ -10,7 +11,6 @@ To play the game:
 - To exit the game, press the Tab key while holding the Alt key and close the game window
 
 
-This project was based on the Game Maker's Toolkit Unity Tutorial for Complete Beginners (https://www.youtube.com/watch?v=XtQMytORBmM&t=146s&pp=ygUQdW5pdHkgZXNzZW50aWFscw%3D%3D).
 Additional features added:
 - High score
 - Game over screen
