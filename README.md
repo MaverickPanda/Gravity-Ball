@@ -1,6 +1,8 @@
 Author: Jay MacFarlane
 
-All music in this game is the original creation of Jay MacFarlane under the pseudonym Maverick Panda.
+Note: This repository is read-only. Feel free to fork or download, but no changes will be accepted.
+
+All music in this game is the original creation of Jay MacFarlane under the pseudonym Maverick Panda. Please do not recreate, commercially use, or publish this music in any format without the creator's express permission.
 
 This project was based on the Game Maker's Toolkit Unity Tutorial for Complete Beginners (https://www.youtube.com/watch?v=XtQMytORBmM&t=146s&pp=ygUQdW5pdHkgZXNzZW50aWFscw%3D%3D).
 
